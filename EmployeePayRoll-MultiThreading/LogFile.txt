@@ -1,0 +1,341 @@
+﻿2020-11-28 03:20:28.2928|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:29.2903|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:20:29.3436|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:31.2915|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:31.3018|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:33.2954|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:33.3105|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:35.2944|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:20:35.3892|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 11
+2020-11-28 03:20:37.3116|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:37.3419|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:39.3235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:39.3553|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:41.3225|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:20:41.3253|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 12
+2020-11-28 03:20:43.3235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:20:43.3275|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 11
+2020-11-28 03:20:45.3271|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 13
+2020-11-28 03:20:45.3271|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 13
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.4894|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:20:47.4894|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:20:47.5068|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5117|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5276|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5492|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 10
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 10
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 10
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 10
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 11
+2020-11-28 03:20:47.5586|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 11
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5586|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:20:47.5750|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:26:59.4595|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.4593|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:26:59.4593|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 4
+2020-11-28 03:26:59.4594|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 13
+2020-11-28 03:26:59.4593|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:26:59.6282|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 14
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7346|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:26:59.7346|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:26:59.7816|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 13
+2020-11-28 03:26:59.7816|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:26:59.7816|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:26:59.7816|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 4
+2020-11-28 03:26:59.7816|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:26:59.7935|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.6756|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.6756|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 14
+2020-11-28 03:27:00.6756|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.6837|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7000|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7000|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7000|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7000|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 14
+2020-11-28 03:27:00.7000|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 14
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:27:00.7145|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 13
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7145|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:27:00.7308|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:22.7575|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 4
+2020-11-28 03:28:22.7576|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 11
+2020-11-28 03:28:22.7575|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.9196|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayroll()||ThreadID: 5
+2020-11-28 03:28:22.9196|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: 5
+2020-11-28 03:28:22.7575|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 13
+2020-11-28 03:28:22.7576|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 12
+2020-11-28 03:28:22.9728|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 14
+2020-11-28 03:28:22.9728|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 4
+2020-11-28 03:28:22.9849|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 14
+2020-11-28 03:28:22.9849|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 4
+2020-11-28 03:28:22.9849|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 13
+2020-11-28 03:28:22.9849|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: 14
+2020-11-28 03:28:22.9849|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7846|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: 11
+2020-11-28 03:28:23.7846|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7846|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7846|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7846|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.7950|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8132|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8132|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8132|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8132|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8132|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 14
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 14
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 14
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: 12
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 14
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId13
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:28:23.8235|INFO|EmployeePayRoll_MultiThreading.Nlog|Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: 12
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId4
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId11
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Bruce :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8235|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Lil Wayne :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Eminen :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Drake :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Enrique :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Shakira :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Rihanna :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: Akon :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8401|DEBUG|EmployeePayRoll_MultiThreading.Nlog|Adding of Employee: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
+2020-11-28 03:28:23.8585|DEBUG|EmployeePayRoll_MultiThreading.Nlog| Employee Added: MGK :AddEmployeeToPayrollDataBase()||ThreadID: 5
