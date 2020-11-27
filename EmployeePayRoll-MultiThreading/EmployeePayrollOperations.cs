@@ -9,6 +9,8 @@ namespace EmployeePayRoll_MultiThreading
 {
     public class EmployeePayrollOperations
     {
+        //Adding NLog to show log details
+        Nlog nLog = new Nlog();
 
         //mutex class is defined in threading namespace 
         //it is used for synchronizing threads
@@ -28,8 +30,10 @@ namespace EmployeePayRoll_MultiThreading
         {
             employeePayrollDataList.ForEach(employeeData =>
             {
+                nLog.LogDebug("Adding of Employee: " + employeeData.EmployeeName + " :AddEmployeeToPayroll()||ThreadID: " + Thread.CurrentThread.ManagedThreadId);
                 Console.WriteLine("Employee Being added" + employeeData.EmployeeName);
                 this.AddEmployeePayroll(employeeData);
+                nLog.LogInfo("Employee Successfully added in List: AddEmployeeToPayroll() ||ThreadId: " + Thread.CurrentThread.ManagedThreadId);
                 Console.WriteLine("Employee added:" + employeeData.EmployeeName);
             });
             Console.WriteLine(this.employeePayrollDetailList.ToString());
@@ -52,8 +56,10 @@ namespace EmployeePayRoll_MultiThreading
         {
             employeePayrollDataList.ForEach(employeeData =>
             {
+                nLog.LogDebug("Adding of Employee: " + employeeData.EmployeeName + " :AddEmployeeToPayrollDataBase()||ThreadID: " + Thread.CurrentThread.ManagedThreadId);
                 Console.WriteLine("Employee being added" + employeeData.EmployeeName);
                 this.AddEmployeePayrollDatabase(employeeData);
+                nLog.LogDebug(" Employee Added: " + employeeData.EmployeeName + " :AddEmployeeToPayrollDataBase()||ThreadID: " + Thread.CurrentThread.ManagedThreadId);
                 Console.WriteLine("Employee added" + employeeData.EmployeeName);
             });
         }
@@ -97,8 +103,10 @@ namespace EmployeePayRoll_MultiThreading
             {
                 Task thread = new Task(() =>
                 {
+                    nLog.LogDebug("Adding of Employee :AddEmployeeToPayrollWithThread()||ThreadID: " + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee Being added" + employeeData.EmployeeName);
                     this.AddEmployeePayroll(employeeData);
+                    nLog.LogInfo("Employee Successfully added in List: AddEmployeeToPayrollWithThread() ||ThreadId: " + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee added:" + employeeData.EmployeeName);
                 });
                 thread.Start();
@@ -116,12 +124,13 @@ namespace EmployeePayRoll_MultiThreading
             {
                 Task thread = new Task(() =>
                 {
+                    nLog.LogDebug("Adding of Employee :AddEmployeeToPayrollWithDataBaseThread()||ThreadID: " + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee being added" + employeeData.EmployeeName);
                     this.AddEmployeePayrollDatabase(employeeData);
+                    nLog.LogInfo("Employee Successfully added in List: addEmployeeToPayrollDataBaseWithThread() ||ThreadId: " + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee added" + employeeData.EmployeeName);
                 });
                 thread.Start();
-                Thread.Sleep(2000);
             });
         }
 
@@ -140,12 +149,14 @@ namespace EmployeePayRoll_MultiThreading
                     //mutex waitone method is used
                     //this method does not allow to other threads to go in it, until current thread execution is complete
                     mut.WaitOne();
+                    nLog.LogDebug("Starting of synchronized Thread using Mutex : AddEmployeeToPayrollWithThreadWithSynchronization|| ThreadId" + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee Being added" + employeeData.EmployeeName);
                     this.AddEmployeePayroll(employeeData);
                     Console.WriteLine("Employee added:" + employeeData.EmployeeName);
                     Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
                     //mut realease mutex is used, which releases current thread and allows new thread to be used.
                     mut.ReleaseMutex();
+                    nLog.LogDebug("Ending of synchronized Thread using Mutex : addEmployeeToPayrollWithThreadWithSynchronization|| ThreadId" + Thread.CurrentThread.ManagedThreadId);
                 });
                 thread.Start();
             });
@@ -165,12 +176,14 @@ namespace EmployeePayRoll_MultiThreading
                     //mutex waitone method is used
                     //this method does not allow to other threads to go in it, until current thread execution is complete
                     mut.WaitOne();
+                    nLog.LogDebug("Starting of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId" + Thread.CurrentThread.ManagedThreadId);
                     Console.WriteLine("Employee being added" + employeeData.EmployeeName);
                     this.AddEmployeePayrollDatabase(employeeData);
                     Console.WriteLine("Employee added" + employeeData.EmployeeName);
                     Console.WriteLine("Current Thread Id : " + Thread.CurrentThread.ManagedThreadId);
                     //mut realease mutex is used, which releases current thread and allows new thread to be used.
                     mut.ReleaseMutex();
+                    nLog.LogDebug("Ending of synchronized Thread using Mutex : AddEmployeeToPayrollDatabaseWithThreadWithSynchronization|| ThreadId" + Thread.CurrentThread.ManagedThreadId);
                 });
                 thread.Start();
                 //task.wait or task.join also blocks other threads to come until current execution is not complete
