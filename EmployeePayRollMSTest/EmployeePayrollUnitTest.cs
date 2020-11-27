@@ -8,8 +8,6 @@ namespace EmployeePayRollMSTest
     [TestClass]
     public class EmployeePayrollUnitTest
     {
-
-
         EmployeePayrollOperations employeePayrollOperations = new EmployeePayrollOperations();
 
         [TestMethod]
