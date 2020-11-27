@@ -176,7 +176,7 @@ namespace EmployeePayRoll_MultiThreading
                 //task.wait or task.join also blocks other threads to come until current execution is not complete
                 //hence applying synchronization
                 //but it reduces no of threads to only one, as thread execution get complete and same thread execute again
-                //ask doubt for this. when thread.wait is not used with task, then error is thrown, while opening up connection
+                //ask doubt for this. when thread.wait is not used with task, then not all records are added
                 thread.Wait();
             });
         }
