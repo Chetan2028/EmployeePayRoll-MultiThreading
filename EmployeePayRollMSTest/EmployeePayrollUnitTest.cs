@@ -50,6 +50,27 @@ namespace EmployeePayRollMSTest
             DateTime endtime = DateTime.Now;
             Console.WriteLine("Total time for operation without thread: {0}", starttime - endtime);
         }
+
+
+        [TestMethod]
+        public void GivenListOfEmployee_AddedIntoEmployeePayRollList_UsingThreading()
+        {
+            List<EmployeeDetails> employeeDetails = AddingDataToList();
+            DateTime starttime1 = DateTime.Now;
+            employeePayrollOperations.AddEmployeeToPayrollWithThread(employeeDetails);
+            DateTime endtime1 = DateTime.Now;
+            Console.WriteLine("Total time with thread: {0}", starttime1 - endtime1);
+        }
+
+        [TestMethod]
+        public void AddingDataintoDataBaseUsingThreading()
+        {
+            List<EmployeeDetails> employeeDetails = AddingDataToList();
+            DateTime starttime1 = DateTime.Now;
+            employeePayrollOperations.AddEmployeeToPayrollDataBaseWithThread(employeeDetails);
+            DateTime endtime1 = DateTime.Now;
+            Console.WriteLine("Total time for operation with thread: {0}", starttime1 - endtime1);
+        }
     }
 
 }
