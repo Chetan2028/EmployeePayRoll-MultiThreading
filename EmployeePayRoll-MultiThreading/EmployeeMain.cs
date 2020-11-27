@@ -6,7 +6,7 @@ namespace EmployeePayRoll_MultiThreading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Employee Payroll service using Multi Threading");
         }
     }
 }
