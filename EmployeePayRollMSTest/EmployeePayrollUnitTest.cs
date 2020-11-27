@@ -2,6 +2,8 @@ using EmployeePayRoll_MultiThreading;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.Threading;
 
 namespace EmployeePayRollMSTest
 {
@@ -10,6 +12,10 @@ namespace EmployeePayRollMSTest
     {
         EmployeePayrollOperations employeePayrollOperations = new EmployeePayrollOperations();
 
+        /// <summary>
+        /// Addings the data to list.
+        /// </summary>
+        /// <returns></returns>
         [TestMethod]
         public List<EmployeeDetails> AddingDataToList()
         {
@@ -29,6 +35,9 @@ namespace EmployeePayRollMSTest
             return employeeDetails;
         }
 
+        /// <summary>
+        /// Givens the list of employee added into employee payroll list.
+        /// </summary>
         [TestMethod]
         public void GivenListOfEmployee_AddedIntoEmployeePayrollList()
         {
@@ -37,9 +46,12 @@ namespace EmployeePayRollMSTest
             employeePayrollOperations.AddEmployeeToPayroll(employeeDetails);
             DateTime endtime = DateTime.Now;
 
-            Console.WriteLine("Total time without thread: {0}", starttime - endtime);
+            Console.WriteLine("Total time without thread: {0}", endtime - starttime);
         }
 
+        /// <summary>
+        /// Addings the data into data base.
+        /// </summary>
         [TestMethod]
         public void AddingDataIntoDataBase()
         {
@@ -48,10 +60,12 @@ namespace EmployeePayRollMSTest
             EmployeePayrollOperations employeePayrollOperations = new EmployeePayrollOperations();
             employeePayrollOperations.AddEmployeeToPayrollDataBase(employeeDetails);
             DateTime endtime = DateTime.Now;
-            Console.WriteLine("Total time for operation without thread: {0}", starttime - endtime);
+            Console.WriteLine("Total time for operation without thread: {0}", endtime - starttime);
         }
 
-
+        /// <summary>
+        /// Givens the list of employee added into employee pay roll list using threading.
+        /// </summary>
         [TestMethod]
         public void GivenListOfEmployee_AddedIntoEmployeePayRollList_UsingThreading()
         {
@@ -59,9 +73,12 @@ namespace EmployeePayRollMSTest
             DateTime starttime1 = DateTime.Now;
             employeePayrollOperations.AddEmployeeToPayrollWithThread(employeeDetails);
             DateTime endtime1 = DateTime.Now;
-            Console.WriteLine("Total time with thread: {0}", starttime1 - endtime1);
+            Console.WriteLine("Total time with thread: {0}", endtime1 - starttime1);
         }
 
+        /// <summary>
+        /// Addings the datainto data base using threading.
+        /// </summary>
         [TestMethod]
         public void AddingDataintoDataBaseUsingThreading()
         {
@@ -69,7 +86,33 @@ namespace EmployeePayRollMSTest
             DateTime starttime1 = DateTime.Now;
             employeePayrollOperations.AddEmployeeToPayrollDataBaseWithThread(employeeDetails);
             DateTime endtime1 = DateTime.Now;
-            Console.WriteLine("Total time for operation with thread: {0}", starttime1 - endtime1);
+            Console.WriteLine("Total time for operation with thread: {0}", endtime1 - starttime1);
+        }
+
+        /// <summary>
+        /// Givens the list of employee added into employee pay roll list using threading with synchronization.
+        /// </summary>
+        [TestMethod]
+        public void GivenListOfEmployee_AddedIntoEmployeePayRollList_UsingThreading_WithSynchronization()
+        {
+            List<EmployeeDetails> employeeDetails = AddingDataToList();
+            DateTime starttime1 = DateTime.Now;
+            employeePayrollOperations.AddEmployeeToPayrollWithThreadWithSynchronization(employeeDetails);
+            DateTime endtime1 = DateTime.Now;
+            Console.WriteLine("Total time with thread: {0}", endtime1 - starttime1);
+        }
+
+        /// <summary>
+        /// Addings the datainto data base using threading with synchronization.
+        /// </summary>
+        [TestMethod]
+        public void AddingDataintoDataBaseUsingThreading_WithSynchronization()
+        {
+            List<EmployeeDetails> employeeDetails = AddingDataToList();
+            DateTime starttime1 = DateTime.Now;
+            employeePayrollOperations.AddEmployeeToPayrollDataBaseWithThreadWithSynchronization(employeeDetails);
+            DateTime endtime1 = DateTime.Now;
+            Console.WriteLine("Total time for operation with thread: {0}",  endtime1 - starttime1);
         }
     }
 
