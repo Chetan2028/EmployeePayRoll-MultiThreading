@@ -4,7 +4,7 @@ use Payroll_Threads;
 
 create table EmployeePayroll
 (
-EmployeeID int primary key not null,
+EmployeeID int not null,
 EmployeeName varchar(50) not null,
 PhoneNumber decimal not null,
 Address varchar(50),
