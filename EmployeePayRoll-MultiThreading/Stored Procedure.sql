@@ -23,3 +23,4 @@ begin
 insert into EmployeePayroll 
 values(@EmployeeId,@EmployeeName,@PhoneNumber,@Address,@Department,@Gender,@BasicPay,@Deductions,@TaxablePay,@Tax,@NetPay,@City,@Country);
 end
+
